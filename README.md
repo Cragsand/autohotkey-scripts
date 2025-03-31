@@ -8,7 +8,7 @@
 >- When toggled the window is resized to 16:9 based on current position and height.
 >- When toggled the window is always on top of other windows.
 >  
-> [Download](VLC%20popout%20minimal%20and%20drag.ahk)
+> [Download / View](VLC%20popout%20minimal%20and%20drag.ahk)
 
 # AutoHotkey 
 Version 1.1 from https://www.autohotkey.com
